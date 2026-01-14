@@ -41,7 +41,7 @@ To level up your skill die, you'll need to:
 
 
 ## WHAT THE PLAYERS NEED
-okay like all of this down here is based on the old sburb thing so these r prone to change
+okay like all of this down here is based on the old sburb thing so these r going to change
 
 
 
