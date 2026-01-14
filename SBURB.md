@@ -41,6 +41,10 @@ To level up your skill die, you'll need to:
 
 
 ## WHAT THE PLAYERS NEED
+okay like all of this down here is based on the old sburb thing so these r prone to change
+
+
+
 To play, you only need a SET OF DICE (these can be digital) and your CHARACTER SHEET. To get this character sheet, you will need to make a CHARACTER.
 
 The character will be THIRTEEN, lives in some place with their GUARDIAN (they can be either dead or alive), and has some ONLINE FRIENDS. Aside from that, the players will need a CHUMHANDLE, a STRIFE SPECIBUS, and a SYLLADEX. Your character is also friends with the other players of this game! Discuss with each other how you know each other, what your messages together look like, etcetera. No need to know the specifics! It's fun to roleplay messages to each other, though. Get to know the other's character as if it were your internet friend.
