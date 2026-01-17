@@ -38,7 +38,6 @@ To level up your skill die, you'll need to:
 - smarts: acquiring knowledge (asking questions, getting your guide to tell you things, do some sleuthing)
 - soul: huge feat of aspect prowess (using powers). god-tiering automatically upgrades the die to a higher one (maybe always rolling with advantage, still needs some upgrading options)
 
-
 ## WHAT THE PLAYERS NEED
 To play, you only need a SET OF DICE (these can be digital) and your CHARACTER SHEET. To get this character sheet, you will need to make a CHARACTER.
 
@@ -77,7 +76,7 @@ PRE CHARACTER CREATION:
 
 POST CHARACTER CREATION:
 - land and quest
-- 
+- SPRITESSSSSSSSSSSSSSSSSSS :(
 
 
 
