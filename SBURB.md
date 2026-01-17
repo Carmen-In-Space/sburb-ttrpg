@@ -11,8 +11,7 @@ https://mspaintadventures.fandom.com/wiki/Sburb
 	- planets (quests included)
 	- how to win sburb
 # CHARACTERS
-[[Camille Osborne]]
-[[Vic Anderson]]
+
 # HOW THE TTRPG WORKS
 
 ## Skills
@@ -41,38 +40,23 @@ To level up your skill die, you'll need to:
 
 
 ## WHAT THE PLAYERS NEED
-okay like all of this down here is based on the old sburb thing so these r going to change
-
-
-
 To play, you only need a SET OF DICE (these can be digital) and your CHARACTER SHEET. To get this character sheet, you will need to make a CHARACTER.
 
 The character will be THIRTEEN, lives in some place with their GUARDIAN (they can be either dead or alive), and has some ONLINE FRIENDS. Aside from that, the players will need a CHUMHANDLE, a STRIFE SPECIBUS, and a SYLLADEX. Your character is also friends with the other players of this game! Discuss with each other how you know each other, what your messages together look like, etcetera. No need to know the specifics! It's fun to roleplay messages to each other, though. Get to know the other's character as if it were your internet friend.
-
-https://docs.google.com/document/d/12fl8BqxNr2Sw8v3b565bJX-S8P38HZjdbicU_lM-IcM/edit?usp=sharing This is the character sheet you will need to fill in! To fill it in, please copy the file and add your name to the title. After it's filled in, please send it to your GM in your private channel. Make it editable, since the GM might have to make changes to it later.
 
 To fill in this character sheet, you will need to do a few things:
 ### Take some tests:
 You will need to take three tests! These should be taken IN CHARACTER, and the results will be used by the GM for the game! Once you have them, send them to the GM in your private channel. Don't worry about the results, the GM will know what to do with them!
 
-https://personalitydna.com/ Send the two word result
-http://www.humanmetrics.com/personality Send the four letter result. 
-http://hs.hiveswap.com/ezodiac/index.php Send the Lunar Sway and Aspect.
+(figure out a way to test for aspect and lunar sway)
 ### Stats are also pretty important!
-The stats for this game will be nearly identical to the D&D 5e stats. The base stats are identical to 5e, and will be determined using the Standard 5E method. To determine your base scores for each of these stats, follow these steps: 
-1) Roll 4D6 (four, six-sided dice)
-2) Take the highest three values, and add them together. 
-3) Rinse and repeat for each stat. 
-4) Once you have a total of 6 results, assign them to the appropriate stats for your character. 
+The stats in this game will be quite simple. You have 4 STATS, all of which you are PRETTY TERRIBLE at. There will be ONE exception. You get to choose WHICH ONE. (list stats info)
 
-Modifiers will be nearly identical to 5E modifiers. These will affect action rolls.
-The chart below shows the relationship between base stats and modifiers. This pattern continues in both directions from 10.
+combat thoughts:
+- contested rolls against the enemy (multiple to avoid a loss ? or maybe negative modifier for enemies)
+- 
 
-![[Pasted image 20231227013219.png]]
 
-Your saves will work slightly differently from 5E. Your character will automatically get a 2+ bonus to two modifiers of their choice, as well as proficiency in up to 4 skills. These are a +2 bonus in things your character is especially good at.
-
-Aside from that, you will get 1D10 of health per level, starting at Level 0 with 10 health. You will also have a base AC (Avoidance Capability) of 10 + your Abscondence modifier. You also have a skill called Luck, which is your Dexterity and Charisma modifier combined. You can use Luck to add points to your rolls if needed. These can be used as much or as little as you like, and will recharge after a long rest.
 
 Strifes (combat) will be turn-based according to the highest collective Initiative of the players and enemies involved. The group with the highest collective roll will get the first turn. During your turn, players each decide their actions in order of their individual initiatives, which will then be taken simultaneously. This allows for combo-attacks, assists, and other collaborative actions.
 
